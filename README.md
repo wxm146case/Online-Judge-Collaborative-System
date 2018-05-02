@@ -15,7 +15,9 @@ RESTful API and loading balancing by Nginx (REST API, Nginx).
 
 # Quick Start
 git clone https://github.com/wxm146case/Online-Judge-Collaborative-System.git
+
 cd Online-Judge-Collaborative-System
+
 sudo bash ./launcher.sh
 
 # Architecture
