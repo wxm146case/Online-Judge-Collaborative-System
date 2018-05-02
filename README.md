@@ -3,6 +3,7 @@ This is a full-stack project with an Angular based front end, NodeJS based restf
 
 • Implemented a web-based collaborative code editor which supports multiple user
 editing simultaneously (ACE, Socket.io, Redis);
+
 • Designed and developed a single-page web application for coding problems
 (Angular2, Auth0, Node.js, MongoDB);
 • Built a user-code executor service which can build and execute user’s code
