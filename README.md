@@ -21,11 +21,12 @@ cd Online-Judge-Collaborative-System
 sudo bash ./launcher.sh
 
 # Architecture
-https://github.com/wxm146case/Online-Judge-Collaborative-System/blob/master/pictures/Structure.PNG
-
 ![image](https://github.com/wxm146case/Online-Judge-Collaborative-System/blob/master/pictures/Structure.PNG)
 
 # Screenshots
+![image](https://github.com/wxm146case/Online-Judge-Collaborative-System/blob/master/pictures/ProblemList.png)
+
+![image](https://github.com/wxm146case/Online-Judge-Collaborative-System/blob/master/pictures/Edit.png)
 
 
 
