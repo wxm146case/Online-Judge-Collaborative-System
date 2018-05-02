@@ -13,6 +13,14 @@ editing simultaneously (ACE, Socket.io, Redis);
 • Refactored and Improved system throughput by decoupling services using
 RESTful API and loading balancing by Nginx (REST API, Nginx).
 
-# Structure
+# Quick Start
+git clone https://github.com/wxm146case/Online-Judge-Collaborative-System.git
+cd Online-Judge-Collaborative-System
+sudo bash ./launcher.sh
+
+# Architecture
+
+# Screenshots
+
 
 
