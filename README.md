@@ -22,6 +22,7 @@ sudo bash ./launcher.sh
 
 # Architecture
 https://github.com/wxm146case/Online-Judge-Collaborative-System/blob/master/pictures/Structure.PNG
+https://github.com/wxm146case/Online-Judge-Collaborative-System/raw/master/pictures/Structure.png
 
 # Screenshots
 
